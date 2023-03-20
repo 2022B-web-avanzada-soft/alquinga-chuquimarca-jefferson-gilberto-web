@@ -1,7 +1,0 @@
-|undefined|undefined|undefined|undefined
-0001|Sony Pictures|Estados Unidos|0987476634|true
-0002|PEstados Unidos|0984738845|true
-0003|Universal|Esaramount|tados Unidos|0975843328|true
-0004|Marvel Estudio|Estados Unidos |0934828383|true
-0005|Warners Brothers|Estados Unidos |0984753325|true
-0007|DREAM WORKS|Estados Unidos |0948734435|true

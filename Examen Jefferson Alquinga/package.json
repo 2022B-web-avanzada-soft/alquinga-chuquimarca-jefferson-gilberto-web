@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "inquirer": "^8.2.5",
-    "inquirer-menu": "^1.0.0"
-  }
-}

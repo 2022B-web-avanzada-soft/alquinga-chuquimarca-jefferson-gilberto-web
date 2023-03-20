@@ -1,0 +1,49 @@
+.MovieDetail {}
+
+.header-photo {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    padding: 40px;
+    padding-top: 15vw;
+    color: white;
+    min-width: 400px;
+}
+
+.film-title {
+    display: flex;
+    padding-bottom: 15px;
+}
+
+.origin-title-date {
+    font-weight: bold;
+    display: flex;
+}
+
+.link-movie {
+    display: flex;
+    color: yellow;
+    font-weight: bold;
+}
+
+.rate-stars-movie {
+    display: flex;
+    padding-top: 10px;
+}
+
+.below-description {
+    padding: 40px;
+    color: white;
+}
+
+.one-sentence-description {
+    display: flex;
+    font-style: italic;
+    text-decoration: underline;
+    padding-bottom: 10px;
+}
+
+.text-description {
+    display: flex;
+    text-align: start;
+}

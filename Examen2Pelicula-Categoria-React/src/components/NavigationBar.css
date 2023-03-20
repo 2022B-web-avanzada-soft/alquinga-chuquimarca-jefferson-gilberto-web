@@ -1,0 +1,14 @@
+.size-navbar {
+    width: 100%;
+}
+
+.navigationBar {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding-right: 50px;
+}
+
+.navigation-link {
+    padding-right: 10px;
+}
