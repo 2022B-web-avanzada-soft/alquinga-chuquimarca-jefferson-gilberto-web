@@ -1,2 +1,2 @@
-# Catálogo de películas, con React y React
+# CÁTEGORIA- películas, con React y React
 EXAMEN 2 CATEGORIA PELICULA
